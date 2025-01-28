@@ -49,6 +49,7 @@ namespace BudgetManagerAPI
 
             app.UseAuthorization();
 
+            app.MapGet("/", () => "Välkommen till transaktionshanteraren");
 
             app.MapControllers();
 
