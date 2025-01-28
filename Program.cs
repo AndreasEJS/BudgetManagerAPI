@@ -18,16 +18,16 @@ namespace BudgetManagerAPI
             // Add services to the container.
 
             builder.Services.AddControllers();
-          
-            
+
+
             //CORS
             builder.Services.AddCors(options =>
             {
                 options.AddDefaultPolicy(builder =>
                 {
-                    builder.AllowAnyOrigin()
-               .AllowAnyHeader()
-               .AllowAnyMethod();
+                    builder.WithOrigins("https://budget-manager-frontend-theta.vercel.app") // Din Vercel-frontend-URL
+                           .AllowAnyHeader()
+                           .AllowAnyMethod();
                 });
             });
 
