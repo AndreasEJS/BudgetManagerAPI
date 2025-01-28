@@ -7,16 +7,28 @@
       "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\budgetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\budgetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:controllers\\analyticscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\categorydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\controllers\\categorycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -37,22 +49,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\transactiondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\transaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\models\\budgetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:models\\budgetcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|c:\\users\\andre\\source\\repos\\budgetmanagerapi\\migrations\\20250114182200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F453A0B-446D-408E-A1AD-C58D732E989C}|BudgetManagerAPI.csproj|solutionrelative:migrations\\20250114182200_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -62,11 +58,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CategoryDto.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\CategoryDto.cs",
               "RelativeDocumentMoniker": "Models\\CategoryDto.cs",
@@ -78,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "AnalyticsController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Controllers\\AnalyticsController.cs",
               "RelativeDocumentMoniker": "Controllers\\AnalyticsController.cs",
@@ -90,7 +86,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "DateSummaryDto.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\DateSummaryDto.cs",
               "RelativeDocumentMoniker": "Models\\DateSummaryDto.cs",
@@ -102,7 +98,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "CategorySummaryDto.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\CategorySummaryDto.cs",
               "RelativeDocumentMoniker": "Models\\CategorySummaryDto.cs",
@@ -114,7 +110,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "TransactionDto.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\TransactionDto.cs",
               "RelativeDocumentMoniker": "Models\\TransactionDto.cs",
@@ -126,7 +122,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "CategoryController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Controllers\\CategoryController.cs",
               "RelativeDocumentMoniker": "Controllers\\CategoryController.cs",
@@ -138,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "TransactionController.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Controllers\\TransactionController.cs",
               "RelativeDocumentMoniker": "Controllers\\TransactionController.cs",
@@ -150,32 +146,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "20250114182200_InitialCreate.cs",
-              "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Migrations\\20250114182200_InitialCreate.cs",
-              "RelativeDocumentMoniker": "Migrations\\20250114182200_InitialCreate.cs",
-              "ToolTip": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Migrations\\20250114182200_InitialCreate.cs",
-              "RelativeToolTip": "Migrations\\20250114182200_InitialCreate.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-14T18:22:01.015Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:17:20.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "BudgetContext.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\BudgetContext.cs",
               "RelativeDocumentMoniker": "Models\\BudgetContext.cs",
@@ -187,37 +171,37 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 3,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\appsettings.json",
               "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAACHAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
               "WhenOpened": "2025-01-14T18:02:59.195Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Category.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\Category.cs",
               "RelativeDocumentMoniker": "Models\\Category.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\Category.cs",
               "RelativeToolTip": "Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:02:51.532Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
               "Title": "Transaction.cs",
               "DocumentMoniker": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\Transaction.cs",
               "RelativeDocumentMoniker": "Models\\Transaction.cs",
               "ToolTip": "C:\\Users\\andre\\source\\repos\\BudgetManagerAPI\\Models\\Transaction.cs",
               "RelativeToolTip": "Models\\Transaction.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-14T18:02:29.004Z"
             }

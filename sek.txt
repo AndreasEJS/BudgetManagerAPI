@@ -1,0 +1,18 @@
+
+class Solution {
+    public string solution(int T) {
+        
+        
+        int hours =T / 3600;
+
+        int minutes = (T % 3600) / 60;
+
+        int seconds = T % 60;
+
+        
+        return $"{hours}h{minutes}m{seconds}s";
+
+
+
+ }
+}

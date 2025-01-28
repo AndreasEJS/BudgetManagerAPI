@@ -1,5 +1,6 @@
 using BudgetManagerAPI.Models;
 using Microsoft.EntityFrameworkCore;
+using Microsoft.Extensions.Configuration;
 
 
 namespace BudgetManagerAPI
@@ -12,7 +13,7 @@ namespace BudgetManagerAPI
 
             builder.Services.AddDbContext<BudgetContext>(options =>
             {
-                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection"));
+                options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection"));
             });
             // Add services to the container.
 

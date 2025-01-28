@@ -27,7 +27,6 @@ C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\staticwebassets\ms
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.BudgetManagerAPI.props
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.BudgetManagerAPI.props
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\staticwebassets.pack.json
-C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\BudgetMa.ED3DCC27.Up2Date
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\BudgetManagerAPI.dll
 C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\refint\BudgetManagerAPI.dll
@@ -170,3 +169,6 @@ C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\runtimes\win\lib\n
 C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\andre\source\repos\BudgetManagerAPI\obj\Debug\net8.0\BudgetManagerAPI.sourcelink.json
+C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\Npgsql.dll
+C:\Users\andre\source\repos\BudgetManagerAPI\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll

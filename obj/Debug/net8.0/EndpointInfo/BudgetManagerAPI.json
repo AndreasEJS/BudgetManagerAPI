@@ -81,6 +81,25 @@
         }
       }
     },
+    "/": {
+      "get": {
+        "tags": [
+          "BudgetManagerAPI"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Category": {
       "get": {
         "tags": [
