@@ -25,7 +25,7 @@ namespace BudgetManagerAPI
             {
                 options.AddDefaultPolicy(builder =>
                 {
-                    builder.WithOrigins("https://budget-manager-frontend-kvvucuqej-andreas-projects-10cbca8b.vercel.app") // Din Vercel-frontend-URL
+                    builder.WithOrigins("https://budget-manager-frontend-theta.vercel.app") // Din Vercel-frontend-URL
                            .AllowAnyHeader()
                            .AllowAnyMethod();
                 });
