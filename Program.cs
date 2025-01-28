@@ -17,12 +17,14 @@ namespace BudgetManagerAPI
             // Add services to the container.
 
             builder.Services.AddControllers();
+          
+            
             //CORS
             builder.Services.AddCors(options =>
             {
                 options.AddDefaultPolicy(builder =>
                 {
-                    builder.WithOrigins("http://localhost:3000")
+                    builder.AllowAnyOrigin()
                .AllowAnyHeader()
                .AllowAnyMethod();
                 });
@@ -35,7 +37,7 @@ namespace BudgetManagerAPI
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
+            if (app.Environment.IsDevelopment() || app.Environment.IsProduction())
             {
                 app.UseSwagger();
                 app.UseSwaggerUI();
